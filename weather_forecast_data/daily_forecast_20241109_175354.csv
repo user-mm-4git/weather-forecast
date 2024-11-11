@@ -1,0 +1,7 @@
+zipcode,date,maxtemp_f,mintemp_f,avgtemp_f,daily_chance_of_rain,daily_chance_of_snow,condition.text,condition.icon,timestamp
+7030,11/9/24,55.4,42.4,49.3,0,0,Sunny,//cdn.weatherapi.com/weather/64x64/day/113.png,11/9/24 17:53
+7030,11/10/24,59.2,43.7,51.3,87,0,Moderate rain,//cdn.weatherapi.com/weather/64x64/day/302.png,11/9/24 17:53
+7030,11/11/24,63.7,54.7,58.2,86,0,Moderate rain,//cdn.weatherapi.com/weather/64x64/day/302.png,11/9/24 17:53
+7086,11/9/24,55.8,42.3,49.1,0,0,Sunny,//cdn.weatherapi.com/weather/64x64/day/113.png,11/9/24 17:53
+7086,11/10/24,58.8,43,51,89,0,Moderate rain,//cdn.weatherapi.com/weather/64x64/day/302.png,11/9/24 17:53
+7086,11/11/24,63.1,55,58.1,85,0,Moderate rain,//cdn.weatherapi.com/weather/64x64/day/302.png,11/9/24 17:53
