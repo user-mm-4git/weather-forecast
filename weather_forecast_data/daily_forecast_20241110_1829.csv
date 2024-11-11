@@ -1,4 +1,0 @@
-zipcode,date,maxtemp_f,mintemp_f,avgtemp_f,daily_chance_of_rain,daily_chance_of_snow,condition.text,condition.icon,timestamp
-07086,2024-11-10,57.2,39.6,49.4,0,0,Overcast ,//cdn.weatherapi.com/weather/64x64/day/122.png,2024-11-10 18:29:07
-07086,2024-11-11,62.4,54.7,57.7,82,0,Patchy rain nearby,//cdn.weatherapi.com/weather/64x64/day/176.png,2024-11-10 18:29:07
-07086,2024-11-12,53.8,38.9,49.9,0,0,Sunny,//cdn.weatherapi.com/weather/64x64/day/113.png,2024-11-10 18:29:07
